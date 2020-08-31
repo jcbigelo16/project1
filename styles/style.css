@@ -1,0 +1,123 @@
+.navbar{
+  background-color: blue;
+  color: white;
+  text-align: right;
+}
+
+h2{
+  color: blue;
+}
+
+h6{
+  color: orange;
+}
+
+.container1{
+  background-color: #2f496f;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 300px;
+  padding-right: 300px;
+
+}
+
+.container2{
+  background-color: white;
+}
+
+#Navbar1 {
+  width: 46px;
+  height: 44px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Announcements1 {
+  width: 46px;
+  height: 44px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Tasks1 {
+  width: 20px;
+  height: 20px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Article1 {
+  width: 20px;
+  height: 20px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Settings1 {
+  width: 20px;
+  height: 20px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Date1 {
+  width: 150px;
+  height: 30px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Customer1{
+  width: 60px;
+  height: 35px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Contacts1 {
+  width: 200px;
+  height: 200px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Customers1 {
+  width: 200px;
+  height: 200px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Facts1 {
+  width: 500px;
+  height: 100px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+#Promo1 {
+  width: 1000px;
+  height: 300px;
+  background: url(img_navsprites.gif) 0 0;
+}
+
+.Announcements{
+  background-color: white;
+  border: 1px solid #cccccc;
+}
+
+.Sociis{
+  background-color: white;
+  border: 1px solid #cccccc;
+}
+
+.Arrows{
+  background-color: white;
+  border: 1px solid #cccccc;
+}
+
+.tasks{
+  border: 1px solid #cccccc;
+}
+
+.recommendations{
+  border: 1px solid #cccccc;
+}
+
+.analytics{
+  border: 1px solid #cccccc;
+}
+
+.ContactTable{
+  border: 1px solid #cccccc;
+}
